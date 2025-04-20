@@ -33,7 +33,7 @@ DEBUG = False  # Cuando despliegues el proyecto, debe ser False; mientras desarr
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'sistema-solicitudes-vercel-production.up.railway.app']
 
-CSRF_TRUSTED_ORIGINS = ['sistema-solicitudes-vercel-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://sistema-solicitudes-vercel-production.up.railway.app']
 
 # Definición de las aplicaciones del proyecto
 INSTALLED_APPS = [
