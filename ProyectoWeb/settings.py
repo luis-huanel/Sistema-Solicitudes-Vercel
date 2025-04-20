@@ -123,6 +123,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'ProyectoWebApp/static'),
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
 
 # Archivos multimedia
 MEDIA_URL = '/media/'
