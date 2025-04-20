@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto corresponde al trabajo final del programa **Analista Programador**. En su desarrollo, se llevaron a cabo actividades de levantamiento de requisitos y análisis en colaboración directa con la empresa **Coca-Cola Andina y Resiter**, ubicada en **Punta Arenas, Chile**. El sistema desarrollado busca automatizar y optimizar los procesos internos de la empresa mediante una solución personalizada, replicando un entorno de desarrollo profesional.
+Este proyecto corresponde al trabajo final de **Analista Programador**. En su desarrollo, se llevaron a cabo actividades de levantamiento de requisitos y análisis en colaboración directa con la empresa **Coca-Cola Andina y Resiter**, ubicada en **Punta Arenas, Chile**. El sistema desarrollado busca automatizar y optimizar los procesos internos de la empresa mediante una solución personalizada, replicando un entorno de desarrollo profesional.
 
 El **Sistema-Solicitudes-Vercel** es una plataforma web que facilita la **gestión de solicitudes** relacionadas con **Equipos de Protección Personal (EPPS)**, **tolvas**, y el **control de procesos de retiro**. Además, el sistema cuenta con múltiples funcionalidades de administración y autenticación, todo ello desplegado sobre la plataforma **Railway**.
 
@@ -22,12 +22,14 @@ El **Sistema-Solicitudes-Vercel** es una plataforma web que facilita la **gesti�
 - **Django**: Framework web para Python utilizado en el desarrollo del sistema.
 - **PostgreSQL**: Base de datos utilizada para almacenar las solicitudes y datos de los usuarios.
 - **Railway**: Plataforma de despliegue utilizada para la puesta en producción del sistema.
-- **Whitenoise**: Utilizado para servir archivos estáticos de manera eficiente.
-- **Gunicorn**: Servidor de aplicaciones WSGI para desplegar el proyecto.
+- **HTML5**: Lenguaje de marcado utilizado para estructurar la web.
+- **CSS3**: Estilos visuales y diseño responsivo del sistema.
+- **JavaScript**: Lenguaje de programación para interactividad y funcionalidades en el cliente.
+- **Bootstrap 5**: Framework CSS utilizado para el diseño responsivo y la interfaz de usuario.
 
 ---
 
-## Integrantes
+## Estudiantes
 
 - **Luis Huanel**
 - **Ignacio Ulloa**
