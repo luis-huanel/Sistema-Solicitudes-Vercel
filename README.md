@@ -16,9 +16,9 @@ Este sistema es una plataforma web que facilita la **gestión de solicitudes** r
 - **Gestión de cápsulas informativas**: Los administradores pueden crear, editar y gestionar cápsulas informativas para los usuarios del sistema.
 - **Formulario de contacto**: Permite a los usuarios contactar al equipo de soporte o administración mediante un formulario de contacto integrado.
 - **Panel de administración**: Un panel personalizado para los administradores del sistema, que incluye reportes detallados y estadísticas sobre las solicitudes realizadas y su estado.
+- - **Videos educativos**: Se incluyó un entorno virtual interactivo con **videos educativos** desarrollados en **Unity3D** y **Blender**. Estos videos fueron diseñados para la capacitación sobre seguridad y prevención de riesgos en el entorno laboral, facilitando el aprendizaje de los empleados mediante un enfoque más dinámico y práctico.
 
 ### Tecnologías utilizadas:
-
 - **Django**: Framework web para Python utilizado en el desarrollo del sistema.
 - **PostgreSQL**: Base de datos utilizada para almacenar las solicitudes y datos de los usuarios.
 - **Railway**: Plataforma de despliegue utilizada para la puesta en producción del sistema.
@@ -26,6 +26,8 @@ Este sistema es una plataforma web que facilita la **gestión de solicitudes** r
 - **CSS3**: Estilos visuales y diseño responsivo del sistema.
 - **JavaScript**: Lenguaje de programación para interactividad y funcionalidades en el cliente.
 - **Bootstrap 5**: Framework CSS utilizado para el diseño responsivo y la interfaz de usuario.
+- **Unity3D**: Plataforma de desarrollo utilizada para crear los **videos educativos** interactivos sobre seguridad y prevención de riesgos.
+- **Blender**: Herramienta de modelado 3D utilizada en la creación de los entornos virtuales para los **videos educativos**.
 
 ---
 
