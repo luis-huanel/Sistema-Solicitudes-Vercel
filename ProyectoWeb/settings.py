@@ -91,8 +91,8 @@ DATABASES = {
         'NAME': 'railway',  # Nombre de la base de datos
         'USER': 'postgres',  # Nombre de usuario de PostgreSQL
         'PASSWORD': 'TNgmHMnFxLTOcIKYtQfMwCrUVhNHsHmm',  # Contraseña de PostgreSQL
-        'HOST': 'postgres.railway.internal',  # Host de Railway
-        'PORT': '5432',  # Puerto de Railway 
+        'HOST': 'turntable.proxy.rlwy.net',  # Host de Railway
+        'PORT': '25128',  # Puerto de Railway 
     }
 }
 
