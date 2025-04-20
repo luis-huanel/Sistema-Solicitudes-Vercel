@@ -16,7 +16,7 @@ Este sistema es una plataforma web que facilita la **gestión de solicitudes** r
 - **Gestión de cápsulas informativas**: Los administradores pueden crear, editar y gestionar cápsulas informativas para los usuarios del sistema.
 - **Formulario de contacto**: Permite a los usuarios contactar al equipo de soporte o administración mediante un formulario de contacto integrado.
 - **Panel de administración**: Un panel personalizado para los administradores del sistema, que incluye reportes detallados y estadísticas sobre las solicitudes realizadas y su estado.
-- - **Videos educativos**: Se incluyó un entorno virtual interactivo con **videos educativos** desarrollados en **Unity3D** y **Blender**. Estos videos fueron diseñados para la capacitación sobre seguridad y prevención de riesgos en el entorno laboral, facilitando el aprendizaje de los empleados mediante un enfoque más dinámico y práctico.
+- **Videos educativos**: Se incluyó un entorno virtual interactivo con **videos educativos** desarrollados en **Unity3D** y **Blender**. Estos videos fueron diseñados para la capacitación sobre seguridad y prevención de riesgos en el entorno laboral, facilitando el aprendizaje de los empleados mediante un enfoque más dinámico y práctico.
 
 ### Tecnologías utilizadas:
 - **Django**: Framework web para Python utilizado en el desarrollo del sistema.
