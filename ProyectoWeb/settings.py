@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-2h_%7n58-!a+*l!uyi&w_=9+%@^(9#0cal(z(7!6-9ikpag=lw
 # ADVERTENCIA DE SEGURIDAD: no ejecutes con DEBUG activado en producción.
 DEBUG = False  # Cuando despliegues el proyecto, debe ser False; mientras desarrollas, True.
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'sistema-solicitudes-vercel-production.up.railway.app']
 
 # Definición de las aplicaciones del proyecto
 INSTALLED_APPS = [
