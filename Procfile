@@ -1,3 +1,1 @@
-web: gunicorn ProyectoWeb.wsgi --log-file - 
-#or works good with external database
-web: python manage.py migrate && gunicorn ProyectoWeb.wsgi
+web: python manage.py collectstatic --noinput && python manage.py migrate && gunicorn ProyectoWeb.wsgi:application --bind 0.0.0.0:$PORT --log-file -
