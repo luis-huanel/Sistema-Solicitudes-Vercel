@@ -1,10 +1,10 @@
-# Sistema-Solicitudes-Vercel
+# Sistema de Solicitudes y Seguimiento de Coca Cola Andina - Resiter
 
 ## Descripción del Proyecto
 
 Este proyecto corresponde al trabajo final de **Analista Programador**. En su desarrollo, se llevaron a cabo actividades de levantamiento de requisitos y análisis en colaboración directa con la empresa **Coca-Cola Andina y Resiter**, ubicada en **Punta Arenas, Chile**. El sistema desarrollado busca automatizar y optimizar los procesos internos de la empresa mediante una solución personalizada, replicando un entorno de desarrollo profesional.
 
-El **Sistema-Solicitudes-Vercel** es una plataforma web que facilita la **gestión de solicitudes** relacionadas con **Equipos de Protección Personal (EPPS)**, **tolvas**, y el **control de procesos de retiro**. Además, el sistema cuenta con múltiples funcionalidades de administración y autenticación, todo ello desplegado sobre la plataforma **Railway**.
+Este sistema es una plataforma web que facilita la **gestión de solicitudes** relacionadas con **Equipos de Protección Personal (EPPS)**, **tolvas**, y el **control de procesos de retiro**. Además, el sistema cuenta con múltiples funcionalidades de administración y autenticación, todo ello desplegado sobre la plataforma **Railway**.
 
 ### Funcionalidades principales:
 
