@@ -126,9 +126,9 @@ STATICFILES_DIRS = [
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
 
-STATICFILES_STORAGE = (
-    'whitenoise.storage.CompressedManifestStaticFilesStorage'
-)
+# Configuración de Whitenoise para servir archivos estáticos
+# Whitenoise permite servir archivos estáticos directamente desde el servidor web
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # Archivos multimedia
 MEDIA_URL = '/media/'
